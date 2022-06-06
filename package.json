@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Jest another RPG",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-Mariachi760/jest-another-RPG.git"
+  },
+  "keywords": [
+    "Jest",
+    "another",
+    "RPG"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/El-Mariachi760/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/El-Mariachi760/jest-another-RPG#readme"
+}
