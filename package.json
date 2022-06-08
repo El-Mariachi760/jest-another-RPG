@@ -26,5 +26,8 @@
   "homepage": "https://github.com/El-Mariachi760/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
